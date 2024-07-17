@@ -6,9 +6,8 @@
 
 ## Submitter Details
 - Submitter 1 Name: Shay Gelbart
-- Submitter 1 ID: 326602802
 - Submitter 2 Name: Arina Kuprina
-- Submitter 2 ID: 900427956
+
 
 ## Software Details
 - Software Name: Zoo Manager
