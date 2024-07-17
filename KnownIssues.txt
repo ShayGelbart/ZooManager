@@ -1,0 +1,8 @@
+Information about issues / bugs in software changes known:
+
+ Version:
+Zoo Project 
+3.0
+
+ Issue Number and Description:
+As of this moment we didn’t find issues
